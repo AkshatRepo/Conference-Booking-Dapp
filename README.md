@@ -24,3 +24,6 @@ $truffle migrate
 $truffle test //If it shows an error while testing don't worry just run the next step and see the browser.
 
 $truffle serve //serve at localhost:8080
+
+
+Thanks to Siraj Raval for his guidance.
